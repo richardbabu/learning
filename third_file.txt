@@ -1,1 +1,1 @@
-This is first line of third file
+This is third file added into the first project.
